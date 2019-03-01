@@ -7,7 +7,7 @@ var account = {
 
 var  contractAddr= '0xd977a20d41c0896d89e5d22f7c7e6dadabae3fc9';
 
-var mnemonic = 'torch hospital call alien alien render essay duck boat vivid blossom reject';
+var mnemonic = 'xxx';
 
 module.exports = {
     account,
